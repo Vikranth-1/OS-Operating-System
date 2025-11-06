@@ -6,7 +6,7 @@ int main() {
 
     clrscr();
 
-    printf("=== Paging Simulation in Turbo C ===\n\n");
+    printf("=== Paging Simulation ===\n\n");
 
     // Input values
     printf("Enter Frame Number : ");
@@ -27,3 +27,4 @@ int main() {
     getch();
     return 0;
 }
+
